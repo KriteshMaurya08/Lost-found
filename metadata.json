@@ -1,0 +1,6 @@
+{
+  "name": "Campus Lost & Found",
+  "description": "Campus Lost & Found Management System - A complete full-stack college platform for reporting, searching, matching, and claiming lost items with Spring Boot, JDBC, and MySQL architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
